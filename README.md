@@ -1,3 +1,3 @@
 # grocery-store-multimedia-app
 
-Multimedia Application using Flash
+Interactive Multimedia Application using Flash
